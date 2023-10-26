@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+-----
 dev possible.
 
 <!--
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### Tech  👋
+-----
 
 🔭🌱🧑‍💻 Mainly using
 
@@ -37,6 +38,7 @@ frontend
 
 
 🌱👀 Sometimes using
+
 Backend
 - nodejs
 - Java
