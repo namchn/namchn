@@ -14,3 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###Tech
+🔭🌱🧑‍💻 Mainly using
+
+Backend
+- Spring Boot
+- JPA
+
+Database
+- MySQL
+
+ETC
+- Git
+- Aws
+
+frontend
+- React
+
+
+🌱👀 Sometimes using
+Backend
+- nodejs
+- Java
+- Python
+
+Database
+- Redis
+- S3
+
+Frontend
+- jsp
+- jquery
+- Javascript / Typescript
+
+
+ETC
+-  이것저것
+
