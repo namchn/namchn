@@ -53,7 +53,7 @@ Database
 Frontend
 - jsp
 - jquery
-- Javascript / Typescript
+- Javascript
 
 
 ETC
