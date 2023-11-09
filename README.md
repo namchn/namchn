@@ -32,6 +32,8 @@ Database
 ETC
 - Git
 - Aws
+- mybatis
+- spring framework
 
 frontend
 - React
